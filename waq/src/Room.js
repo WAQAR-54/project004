@@ -12,6 +12,8 @@ function Room() {
       This is room Component is  {islite? "lit": "dark" } 
       <br/>
       My Name is Waqar Azeem  
+      <br/>
+      <button onClick={ }>Toggle Button</button>
 
     </div>
   );
